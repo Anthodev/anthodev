@@ -17,4 +17,9 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Mes extensions VSCode favorites pour ce début 2021](https://antho.dev/mes-extensions-vscode-favorites-pour-ce-debut-2021/)
+- [Obtenir le rang A+ sur SSL Labs avec Caddy](https://antho.dev/obtenir-le-rang-a-sur-ssl-labs-avec-caddy/)
+- [Des fixtures au top avec Foundry](https://antho.dev/des-fixtures-au-top-avec-foundry/)
+- [Signer ses commits avec le shell Fish](https://antho.dev/signer-les-commits-avec-le-shell-fish/)
+- [Configuration basique de WSL (2)](https://antho.dev/configuration-basique-de-wsl/)
 <!-- BLOG-POST-LIST:END -->
