@@ -1,4 +1,4 @@
-- name: PHP / Symfony
+- name: PHP
   logo: php
   url: https://php.net/
   color: 384169
@@ -66,6 +66,6 @@
   logo: docker
   url: https://www.docker.com/
   color: 4FA1EF
-    projects:
-      - https://github.com/Anthodev/caker
-      - https://github.com/Anthodev/dockymfik
+  projects:
+    - https://github.com/Anthodev/caker
+    - https://github.com/Anthodev/dockymfik
