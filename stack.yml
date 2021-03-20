@@ -1,0 +1,71 @@
+- name: PHP / Symfony
+  logo: php
+  url: https://php.net/
+  color: 384169
+  projects:
+    - https://github.com/Anthodev/demo-rest-api
+    - https://github.com/Anthodev/simplecv-creator
+    - https://github.com/O-clock-Sirius/otrak-api
+    - url: https://github.com/Anthodev/KijiReader
+      wip: true
+    - url: https://github.com/astral-planner/core
+      wip: true
+    - url: https://github.com/taremaku/taremaku
+      wip: true
+    - url: https://github.com/Anthodev/hanei-core
+      wip: true
+
+- name: NuxtJS
+  logo: nuxtjs
+  url: https://nuxtjs.org/
+  color: 009e72
+  projects:
+    - url: https://github.com/Anthodev/KijiReader
+      wip: true
+    - url: https://github.com/Anthodev/hanei-core
+      wip: true
+
+- name: VueJS
+  logo: vuejs
+  url: https://vuejs.org/
+  color: 41b883
+  projects:
+    - https://github.com/Anthodev/simplecv-creator
+    - https://github.com/Anthodev/demo-rest-api
+    - url: https://github.com/taremaku/taremaku
+      wip: true
+
+- name: MySQL
+  logo: mysql
+  url: https://www.mysql.com
+  color: f29111
+  projects:
+    - https://github.com/O-clock-Sirius/otrak-api
+    - url: https://github.com/Anthodev/KijiReader
+      wip: true
+
+- name: PostgreSQL
+  logo: postgresql
+  url: https://postgres.org
+  color: 336791
+  projects:
+    - https://github.com/Anthodev/demo-rest-api
+    - url: https://github.com/taremaku/taremaku
+      wip: true
+    - url: https://github.com/Anthodev/hanei-core
+      wip: true
+
+- name: MongoDB
+  logo: mongodb
+  url: https://www.mongodb.com/
+  color: 66eda4
+  projects:
+    - https://github.com/Anthodev/simplecv-creator
+
+- name: Docker
+  logo: docker
+  url: https://www.docker.com/
+  color: 4FA1EF
+    projects:
+      - https://github.com/Anthodev/caker
+      - https://github.com/Anthodev/dockymfik
