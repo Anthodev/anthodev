@@ -1,11 +1,8 @@
-### Hello people 👋
+## Hello people 👋
 
 ![Metrics](https://github.com/anthodev/anthodev/blob/main/github-metrics.svg)
 
-# Blog posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
+## Breakdown of my projects
 <!-- START OF PROFILE STACK, DO NOT REMOVE -->
 | 💻 **Technology** | 🚀 **Projects** |
 |-|-|
@@ -17,3 +14,7 @@
 | [![MongoDB](https://img.shields.io/static/v1?label=&message=MongoDB&color=66eda4&logo=mongodb&logoColor=white)](https://www.mongodb.com/) | [![simplecv-creator](https://img.shields.io/static/v1?label=&message=simplecv-creator&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/Anthodev/simplecv-creator) |
 | [![Docker](https://img.shields.io/static/v1?label=&message=Docker&color=4FA1EF&logo=docker&logoColor=white)](https://www.docker.com/) | [![caker](https://img.shields.io/static/v1?label=&message=caker&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/Anthodev/caker) [![dockymfik](https://img.shields.io/static/v1?label=&message=dockymfik&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/Anthodev/dockymfik) |
 <!-- END OF PROFILE STACK, DO NOT REMOVE -->
+
+## Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
