@@ -31,7 +31,6 @@
   color: 41b883
   projects:
     - https://github.com/Anthodev/simplecv-creator
-    - https://github.com/Anthodev/demo-rest-api
     - url: https://github.com/taremaku/taremaku
       wip: true
 
