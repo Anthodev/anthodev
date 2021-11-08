@@ -21,5 +21,5 @@
 - [Obtenir le rang A+ sur SSL Labs avec Caddy](https://antho.dev/obtenir-le-rang-a-sur-ssl-labs-avec-caddy/)
 - [Des fixtures au top avec Foundry](https://antho.dev/des-fixtures-au-top-avec-foundry/)
 - [Signer ses commits avec le shell Fish](https://antho.dev/signer-les-commits-avec-le-shell-fish/)
-- [Configuration basique de WSL (2)](https://antho.dev/configuration-basique-de-wsl/)
+- [Configuration basique de WSL &lpar;2&rpar;](https://antho.dev/configuration-basique-de-wsl/)
 <!-- BLOG-POST-LIST:END -->
