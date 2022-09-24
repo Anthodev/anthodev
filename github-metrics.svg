@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -137,13 +137,13 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="295.189901385319" height="8" fill="orange"/>
-                    <rect mask="url(#languages-bar)" x="295.189901385319" y="0" width="105.42944152716507" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="400.61934291248406" y="0" width="23.01168793866594" height="8" fill="#ff0000"/>
-                    <rect mask="url(#languages-bar)" x="423.63103085115" y="0" width="16.06837480943578" height="8" fill="#f7523f"/>
-                    <rect mask="url(#languages-bar)" x="439.69940566058574" y="0" width="7.561588145616839" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="447.26099380620263" y="0" width="6.834903263343178" height="8" fill="#427819"/>
-                    <rect mask="url(#languages-bar)" x="454.09589706954574" y="0" width="5.904102930454187" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="294.63548385911133" height="8" fill="orange"/>
+                    <rect mask="url(#languages-bar)" x="294.63548385911133" y="0" width="106.09538616474255" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="400.73087002385387" y="0" width="22.968468021450125" height="8" fill="#ff0000"/>
+                    <rect mask="url(#languages-bar)" x="423.699338045304" y="0" width="16.038195631319535" height="8" fill="#f7523f"/>
+                    <rect mask="url(#languages-bar)" x="439.7375336766235" y="0" width="7.547386179444487" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="447.28491985606803" y="0" width="6.822066136661852" height="8" fill="#427819"/>
+                    <rect mask="url(#languages-bar)" x="454.10698599272985" y="0" width="5.893014007270107" height="8" fill="#178600"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -155,7 +155,7 @@
                                 PHP
                             </div>
                             <small>
-                                <div>64.17%</div>
+                                <div>64.05%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -166,7 +166,7 @@
                                 JavaScript
                             </div>
                             <small>
-                                <div>5%</div>
+                                <div>4.99%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -201,7 +201,7 @@
                                 Vue
                             </div>
                             <small>
-                                <div>22.92%</div>
+                                <div>23.06%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -223,7 +223,7 @@
                                 Makefile
                             </div>
                             <small>
-                                <div>1.49%</div>
+                                <div>1.48%</div>
                             </small>
                         </div>
                     </section>
