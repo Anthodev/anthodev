@@ -17,9 +17,9 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Le Makefile, c&#39;est magique !](https://antho.dev/le-makefile-cest-magique/)
 - [L&#39;utilisation des &quot;Trait&quot; en PHP](https://antho.dev/lutilisation-des-trait-en-php/)
 - [Le défi de l&#39;encadrement](https://antho.dev/le-defi-de-lencadrement/)
 - [Observations et leçons de ma première année en tant que développeur](https://antho.dev/observations-et-lecons-de-ma-premiere-annee-en-tant-que-developpeur/)
 - [Mes extensions VSCode favorites pour ce début 2021](https://antho.dev/mes-extensions-vscode-favorites-pour-ce-debut-2021/)
-- [Obtenir le rang A+ sur SSL Labs avec Caddy](https://antho.dev/obtenir-le-rang-a-sur-ssl-labs-avec-caddy/)
 <!-- BLOG-POST-LIST:END -->
