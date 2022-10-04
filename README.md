@@ -17,9 +17,9 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Corriger un conflit git fantôme](https://antho.dev/corriger-un-conflit-git-fantome/)
 - [Créer un validateur custom sur Symfony 5](https://antho.dev/creer-un-validateur-custom-sur-symfony-5/)
 - [Est-ce qu&#39;une font pour développeurs à 100 balles vaut le coup ?](https://antho.dev/est-ce-quune-font-pour-developpeurs-a-100-balles-vaut-le-coup/)
 - [Le Makefile, c&#39;est magique !](https://antho.dev/le-makefile-cest-magique/)
 - [L&#39;utilisation des &quot;Trait&quot; en PHP](https://antho.dev/lutilisation-des-trait-en-php/)
-- [Le défi de l&#39;encadrement](https://antho.dev/le-defi-de-lencadrement/)
 <!-- BLOG-POST-LIST:END -->
