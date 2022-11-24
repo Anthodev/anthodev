@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -137,12 +137,12 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="316.0801044416156" height="8" fill="orange"/>
-                    <rect mask="url(#languages-bar)" x="316.0801044416156" y="0" width="100.73532103188967" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="416.8154254735053" y="0" width="17.29154041893235" height="8" fill="#ff0000"/>
-                    <rect mask="url(#languages-bar)" x="434.10696589243764" y="0" width="11.889181263955036" height="8" fill="#f7523f"/>
-                    <rect mask="url(#languages-bar)" x="445.9961471563927" y="0" width="8.436236251706463" height="8" fill="#427819"/>
-                    <rect mask="url(#languages-bar)" x="454.43238340809916" y="0" width="5.567616591900895" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="315.82767135598306" height="8" fill="orange"/>
+                    <rect mask="url(#languages-bar)" x="315.82767135598306" y="0" width="100.87179744759645" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="416.6994688035795" y="0" width="17.31496703269851" height="8" fill="#ff0000"/>
+                    <rect mask="url(#languages-bar)" x="434.01443583627804" y="0" width="11.905288750663487" height="8" fill="#f7523f"/>
+                    <rect mask="url(#languages-bar)" x="445.9197245869415" y="0" width="8.505115802991696" height="8" fill="#427819"/>
+                    <rect mask="url(#languages-bar)" x="454.42484038993325" y="0" width="5.5751596100668035" height="8" fill="#00ADD8"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -154,7 +154,7 @@
                                 PHP
                             </div>
                             <small>
-                                <div>68.71%</div>
+                                <div>68.66%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -176,7 +176,7 @@
                                 Makefile
                             </div>
                             <small>
-                                <div>1.83%</div>
+                                <div>1.85%</div>
                             </small>
                         </div>
                     </section>
@@ -189,7 +189,7 @@
                                 Vue
                             </div>
                             <small>
-                                <div>21.9%</div>
+                                <div>21.93%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -200,7 +200,7 @@
                                 Blade
                             </div>
                             <small>
-                                <div>2.58%</div>
+                                <div>2.59%</div>
                             </small>
                         </div>
                         <div class="field language details">
