@@ -17,9 +17,9 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Ajouter la coloration syntaxique sur son blog](https://antho.dev/ajouter-la-coloration-syntaxique-sur-son-blog/)
 - [Fixer l&#39;erreur 419 entre Laravel, Inertia et Vue](https://antho.dev/fixer-lerreur-419-entre-laravel-inertia-et-vue/)
 - [La veille dans le développement](https://antho.dev/la-veille-dans-le-developpement/)
 - [Corriger un conflit git fantôme](https://antho.dev/corriger-un-conflit-git-fantome/)
 - [Créer un validateur custom sur Symfony 5](https://antho.dev/creer-un-validateur-custom-sur-symfony-5/)
-- [Est-ce qu&#39;une font pour développeurs à 100 balles vaut le coup ?](https://antho.dev/est-ce-quune-font-pour-developpeurs-a-100-balles-vaut-le-coup/)
 <!-- BLOG-POST-LIST:END -->
