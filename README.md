@@ -17,9 +17,9 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Mettre en place l&#39;Object Storage de Vultr sur son instance Firefish](https://antho.dev/mettre-en-place-lobject-storage-de-vultr-sur-son-instance-firefish/)
 - [Utiliser l&#39;agent SSH de 1Password sur WSL2 avec Fish Shell](https://antho.dev/utiliser-le-ssh-agent-de-1password-sur-wsl2-avec-fish-shell/)
 - [Ajouter la coloration syntaxique sur son blog](https://antho.dev/ajouter-la-coloration-syntaxique-sur-son-blog/)
 - [Fixer l&#39;erreur 419 entre Laravel, Inertia et Vue](https://antho.dev/fixer-lerreur-419-entre-laravel-inertia-et-vue/)
 - [La veille dans le développement](https://antho.dev/la-veille-dans-le-developpement/)
-- [Corriger un conflit git fantôme](https://antho.dev/corriger-un-conflit-git-fantome/)
 <!-- BLOG-POST-LIST:END -->
