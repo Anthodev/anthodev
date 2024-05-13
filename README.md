@@ -17,9 +17,9 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Gérer ses `dotfiles` avec Stow](https://antho.dev/gerer-ses-dotfiles-avec-stow/)
 - [Déployer &lpar;gratuitement&rpar; un bot Discord en Golang sur Fly.io](https://antho.dev/deployer-un-bot-discord-en-golang-sur-fly-io/)
 - [Mettre en place l&#39;Object Storage de Vultr sur son instance Firefish](https://antho.dev/mettre-en-place-lobject-storage-de-vultr-sur-son-instance-firefish/)
 - [Utiliser l&#39;agent SSH de 1Password sur WSL2 avec Fish Shell](https://antho.dev/utiliser-le-ssh-agent-de-1password-sur-wsl2-avec-fish-shell/)
 - [Ajouter la coloration syntaxique sur son blog](https://antho.dev/ajouter-la-coloration-syntaxique-sur-son-blog/)
-- [Fixer l&#39;erreur 419 entre Laravel, Inertia et Vue](https://antho.dev/fixer-lerreur-419-entre-laravel-inertia-et-vue/)
 <!-- BLOG-POST-LIST:END -->
