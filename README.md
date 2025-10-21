@@ -17,9 +17,9 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Atuin, l&#39;historique shell qui se synchronise](https://antho.dev/atuin-lhistorique-shell-qui-se-synchronise/)
 - [Mon avis sur &quot;l&#39;IA&quot; après plus d&#39;un an d&#39;utilisation comme développeur](https://antho.dev/mon-avis-sur-lia-apres-plus-dun-an-dutilisation-comme-developpeur/)
 - [1Password avec WSL, le guide 2025](https://antho.dev/1password-avec-wsl-le-guide-2025/)
 - [Gérer ses `dotfiles` avec Stow](https://antho.dev/gerer-ses-dotfiles-avec-stow/)
 - [Déployer &lpar;gratuitement&rpar; un bot Discord en Golang sur Fly.io](https://antho.dev/deployer-un-bot-discord-en-golang-sur-fly-io/)
-- [Mettre en place l&#39;Object Storage de Vultr sur son instance Firefish](https://antho.dev/mettre-en-place-lobject-storage-de-vultr-sur-son-instance-firefish/)
 <!-- BLOG-POST-LIST:END -->
